@@ -1,0 +1,19 @@
+{
+    "name": "witfox/lumen-wechat",
+    "description": "A simple wechat",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chen Ye",
+            "email": "1263057565@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WitFox\\LumenWechat\\": ""
+        }
+    }
+}
